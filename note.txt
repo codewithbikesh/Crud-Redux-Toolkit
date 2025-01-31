@@ -1,0 +1,11 @@
+Youtube Link  : https://www.youtube.com/watch?v=8vNFuUALYv4&t=457s
+
+1. To create react js app
+   command : npm create vite@latest my-react-app
+2. select react js library 
+3. select javascript 
+3. install node modules folder 
+   command: npm install   
+4. use any one css framework like tailwind or material UI
+5. if you are use redux toolkit for state management | you need to install it 
+   command: npm install @reduxjs/toolkit react-redux 
